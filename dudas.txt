@@ -8,3 +8,7 @@ Muchas veces el movimiento se queda bloqueado, no se como solventarlo.
 El personaje puede volver del salto a y0 mas despacio?
 
 no entiendo donde indicarle el cambio de img para un sprite corriendo y otro en idle, todo en el animation con ifS?
+
+
+
+check colisiones variables declaradas

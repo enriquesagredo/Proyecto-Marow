@@ -11,7 +11,7 @@ const FLOOR = 85
 const BMY = 300
 const MAROWY = 291
 const MAROWSPEED = 4
-const ENEMYVX = 1.5
+const ENEMYVX = 4.5
 
 const SPAWNMOBS = {
     RIGTH: 900,
