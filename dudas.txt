@@ -1,0 +1,10 @@
+Poner referencia a la altura de una imagen como variable
+ (En este caso Marow, para restarselo a la variable asignada 
+ a FLOOR y tener la altura de cada pj en el suelo en vez de
+  calcularlo a "OJO")
+
+Muchas veces el movimiento se queda bloqueado, no se como solventarlo.
+
+El personaje puede volver del salto a y0 mas despacio?
+
+no entiendo donde indicarle el cambio de img para un sprite corriendo y otro en idle, todo en el animation con ifS?

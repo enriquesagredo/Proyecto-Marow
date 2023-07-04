@@ -1,0 +1,40 @@
+@font-face {
+  font-family: LifeCraft;
+  src: url(/lifecraft/LifeCraft_Font.otf);
+}
+
+
+
+canvas {
+    border: 1px solid black;
+    
+  }
+
+  .hidden {
+    display: none;
+
+  }
+
+ #start {
+  font-family: LifeCraft;
+  z-index: 10;
+  color: rgb(9, 203, 237);
+  margin-top: 120px;
+  margin-left: 18px;
+ }
+
+
+
+ .pantallaCarga {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid red;
+  height: 400px;
+  width: 800px;
+  background-image: url("/media/backgrounds/800400.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* width: ; */
+}
